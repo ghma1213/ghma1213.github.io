@@ -105,6 +105,10 @@ content:
         title: 중앙대학교
         caption: 2015 - 2017
         sub_title: 화학신소재공학
+      - layout: left
+        title: 경기과학기술대학교
+        caption: 2009 - 2014
+        sub_title: 자동차과
         # quote: >
           # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         # description: | # this will include new lines to allow paragraphs
