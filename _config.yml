@@ -84,33 +84,32 @@ content:
           영어교육 전문 출판 브랜드 Bricks
         description: | # this will include new lines to allow paragraphs
           - 사내 프로젝트 개발 및 레거시 시스템 리팩토링
-          - JPA, Spring boot, MySql 환경에서의 개발 경험
+          - Spring boot, JPA, MySql 환경에서의 개발 경험
 
       - layout: left
-        title: 사회평론
+        title: 갈렙ABC
         link: https://sapyoung.com/
-        # link_text: boringcompany.com
         sub_title: 웹 개발자
-        caption: July 2021 - Present
+        caption: September 2019 - June 2021
         quote: >
-          영어교육 전문 출판 브랜드 Bricks
+          병원대상 관리회계(원가, 성과), 통계분석 컨설팅/솔루션
         description: | # this will include new lines to allow paragraphs
-          - 사내 프로젝트 개발 및 레거시 시스템 리팩토링
-          - Spring boot, MyBatis 환경에서의 개발 경험
+          - 사내 프로젝트 개발 및 기존 솔루션 유지보수
+          - Spring boot, MyBatis, Oracle 환경에서의 개발 경험
+          - Go, SQLite, PostgreSQL 환경에서의 개발 경험
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+        title: 중앙대학교
+        caption: 2015 - 2017
+        sub_title: 화학신소재공학
+        # quote: >
+          # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        # description: | # this will include new lines to allow paragraphs
+          # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
