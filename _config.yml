@@ -108,7 +108,7 @@ content:
         quote: >
           중앙대학교(中央大學校, Chung-Ang University)는 서울특별시 동작구와 경기도 안성시에 위치해 있는 대한민국의 사립대학이다.
         description: | # this will include new lines to allow paragraphs
-          화학신소재공학이란 원료에 물리적/화학적 변화를 가하여 부가가치를 높이거나 원하는 물성을 갖는 소재를 개발하기 위한 개별 공정을 탐구하는 학문이다. 
+          - 화학신소재공학이란 원료에 물리적/화학적 변화를 가하여 부가가치를 높이거나 원하는 물성을 갖는 소재를 개발하기 위한 개별 공정을 탐구하는 학문이다. 
 
       - layout: left
         title: 경기과학기술대학교
@@ -117,7 +117,8 @@ content:
         quote: >
           경기과학기술대학교(京畿科學技術大學校, Gyeonggi University of Science and Technology)는 경기도 시흥시의 전문대학이다.
         description: | # this will include new lines to allow paragraphs
-          자동차과는 국가의 기간산업으로 기계, 전기, 전자, 통신 등 산업 전반에 핵심이 되는 중요한 산업이다. 서부산업단지를 거점으로 자동차 산업 발전에 맞추어 필요한 인재를 양성하는 학과로서 자동차 정비, 자동차 부품설계, 그리고 친환경 전기자동차에 대한 우수한 전문기술인을 양성하는 것을 목표로 한다.
+          - 자동차과는 국가의 기간산업으로 기계, 전기, 전자, 통신 등 산업 전반에 핵심이 되는 중요한 산업이다. 
+          - 서부산업단지를 거점으로 자동차 산업 발전에 맞추어 필요한 인재를 양성하는 학과로서 자동차 정비, 자동차 부품설계, 그리고 친환경 전기자동차에 대한 우수한 전문기술인을 양성하는 것을 목표로 한다.
 
   - title: A Little More About Me
     layout: text
