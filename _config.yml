@@ -56,20 +56,37 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Hibricks Converting
+        link: hibricks.com
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            # url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Legacy 프로젝트 리팩토링/리엔지니어링
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Window Server, SQL Sever, C#에서 Linux(AWS), MariaDB, Java로 전환, 데이터 정리 및 버그 수정, 보완 작업
+
+      - layout: top-middle
+        title: Ebricks Renovation
+        link: ebricks.co.kr
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            # url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Legacy 프로젝트 개편
+        description: | # this will include new lines to allow paragraphs
+          Naver Cloud, PHP 에서 Linux(AWS), MariaDB, Java로 전환, 데이터 정리 및 버그 수정, 보완 작업 등 새로운 Website 개발
+          
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -129,7 +146,7 @@ content:
           경기과학기술대학교(京畿科學技術大學校, Gyeonggi University of Science and Technology)는 경기도 시흥시의 전문대학이다.
         description: | # this will include new lines to allow paragraphs
           - 자동차과는 국가의 기간산업으로 기계, 전기, 전자, 통신 등 산업 전반에 핵심이 되는 중요한 산업이다. 
-          - 서부산업단지를 거점으로 자동차 산업 발전에 맞추어 필요한 인재를 양성하는 학과로서 자동차 정비, 자동차 부품설계, 그리고 친환경 전기자동차에 대한 우수한 전문기술인을 양성하는 것을 목표로 한다.
+          - 자동차 산업 발전에 맞추어 필요한 인재를 양성하는 학과로서 자동차 정비, 자동차 부품설계, 그리고 친환경 전기자동차에 대한 우수한 전문기술인을 양성하는 것을 목표로 한다.
 
   - title: A Little More About Me
     layout: text
