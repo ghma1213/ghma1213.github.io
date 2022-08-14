@@ -148,17 +148,30 @@ content:
           - 자동차과는 국가의 기간산업으로 기계, 전기, 전자, 통신 등 산업 전반에 핵심이 되는 중요한 산업이다. 
           - 자동차 산업 발전에 맞추어 필요한 인재를 양성하는 학과로서 자동차 정비, 자동차 부품설계, 그리고 친환경 전기자동차에 대한 우수한 전문기술인을 양성하는 것을 목표로 한다.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  - title: Skill
+    sub_title: 현재 업무에 사용하거나 사용했던 기술들입니다.
+    layout: list
+    content:  # this will include new lines to allow paragraphs
+      - layout: left
+        title: Backend
+        description: | # this will include new lines to allow paragraphs
+          - Java, Go, Javascript(NodeJS)
+          - Spring Boot, Spring Security, Fiber, Express
+          - JPA, Querydsl
+          - Gradle, Maven
+          - IntelliJ, Eclipse, Visual Studio Code
+      - layout: left
+        title: DevOps
+        description: | 
+          - MySQL, MariaDB, SQLite
+          - NginX, Tomcat
+          - Linux Centos
+      - layout: left
+        title: Frontend
+        description: | 
+          - ES6
+          - React, React Native, jQuery
+          - Thymeleaf
 
 # Footer
 footer_show_references: true
