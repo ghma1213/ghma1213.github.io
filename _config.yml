@@ -85,7 +85,9 @@ content:
         quote: >
           Legacy 프로젝트 개편
         description: | # this will include new lines to allow paragraphs
-          Naver Cloud, PHP 에서 Linux(AWS), MariaDB, Java로 전환, 데이터 정리 및 버그 수정, 보완 작업 등 새로운 Website 개발
+          - Naver Cloud, PHP 에서 Linux(AWS), MariaDB, Java로 전환, 데이터 정리 및 버그 수정, 보완 작업 등 새로운 Website 개발
+          - Java, JPA, Spring Boot, Javascript, Thymeleaf, HTML, MariaDB, Linux 기술 사용
+          - 사용자 페이지, 관리자 페이지 백엔드, 프론트엔드 담당
           
 
   - title: Experience # Title for the section
