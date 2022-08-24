@@ -149,8 +149,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
     - layout: top-middle
-        title: 하단 링크를 참고해주세요.
+        title: 개인 프로젝트
         link: hibricks.com
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            # icon: fab fa-github
+            # url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          혼자서 개발한 프로젝트
+        description: | # this will include new lines to allow paragraphs
+          - 링크를 참고해주세요.
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
