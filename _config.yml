@@ -125,8 +125,25 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Goroutine을 이용한 비동기 처리
           - Go, Fiber, Javascript, HTML, PostgreSQL 기술 사용
-          - 사용자 페이지, 관리자 페이지의 백엔드, 프론트엔드 담당
+          - 사용자 페이지의 백엔드, 프론트엔드 담당
 
+      - layout: top-middle
+        title: CalebABC Hospital
+        # link: ebricks.co.kr
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            # url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Legacy 프로젝트 개편
+        description: | # this will include new lines to allow paragraphs
+          - Visual Basic, Oracle에서 Java, Spring Boot, PostgreSQL로 전환, 응용 프로그램에서 Website로 개발
+          - Java, MyBatis, Spring Boot, Javascript, HTML, PostgreSQL, Window Server 기술 사용
+          - 사용자 페이지의 백엔드, 프론트엔드 담당
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -212,7 +229,7 @@ content:
       - layout: left
         title: Frontend
         description: | 
-          - ES6
+          - Javascript, Typescript
           - React, React Native, jQuery
           - Thymeleaf
 
