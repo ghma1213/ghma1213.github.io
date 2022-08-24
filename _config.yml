@@ -144,6 +144,13 @@ content:
           - Visual Basic, Oracle에서 Java, Spring Boot, PostgreSQL로 전환, 응용 프로그램에서 Website로 개발
           - Java, MyBatis, Spring Boot, Javascript, HTML, PostgreSQL, Window Server 기술 사용
           - 사용자 페이지의 백엔드, 프론트엔드 담당
+  
+  - title: Personal Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+    - layout: top-middle
+        title: 하단 링크를 참고해주세요.
+        link: hibricks.com
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
