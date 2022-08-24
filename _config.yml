@@ -149,8 +149,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Hibricks
-        link: hibricks.com
+        title: Personal
+        # link: hibricks.com
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -162,7 +162,8 @@ content:
         quote: >
           혼자서 작업한 프로젝트
         description: | # this will include new lines to allow paragraphs
-          - 링크를 참고해주세요.
+          - 하단 링크를 참고해주세요.
+          - https://colorful-game-81d.notion.site/e645e1fa45be47478d508b41b7763955
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
