@@ -145,11 +145,11 @@ content:
           - Java, MyBatis, Spring Boot, Javascript, HTML, PostgreSQL, Window Server 기술 사용
           - 사용자 페이지의 백엔드, 프론트엔드 담당
   
-  - title: Personal Projects # Title for the section
+  - title: Side Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Personal
+        title: Side Projects
         # link: hibricks.com
         # link_text: Project Website
         additional_links:
