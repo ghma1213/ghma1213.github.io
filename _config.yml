@@ -10,7 +10,6 @@ name: 마경환
 title: Java 백엔드 엔지니어
 email: ghma1213@gmail.com
 website: https://devhooney.tistory.com/
-# portfolio: https://colorful-game-81d.notion.site/Backend-Engineer-761510c190c741fa8ea5c72b41bc8920
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -34,7 +33,7 @@ linkedin_username: gyeonghwan-ma-947548145
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://colorful-game-81d.notion.site/Backend-Engineer-761510c190c741fa8ea5c72b41bc8920
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
