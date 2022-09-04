@@ -209,22 +209,22 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top
+      - layout: top-middle
         title: KH 정보교육원
         caption: 2019.01 ~ 2019.07
         sub_title: Java 프레임워크 개발자 양성과정
 
-      - layout: top
+      - layout: top-middle
         title: 서울대학교 반도체 공동 연구소
         caption: 2017.07 - 2017.08
         sub_title: 반도체 공정 실습
 
-      - layout: top
+      - layout: top-middle
         title: KANC 한국나노기술원
         caption: 2017.06 - 2017.10
         sub_title: 반도체 공정 교육
 
-      - layout: top
+      - layout: top-middle
         title: 중앙대학교
         caption: 2015.03 - 2017.08
         sub_title: 화학신소재공학
@@ -233,7 +233,7 @@ content:
         # description: | # this will include new lines to allow paragraphs
           # - 화학신소재공학이란 원료에 물리적/화학적 변화를 가하여 부가가치를 높이거나 원하는 물성을 갖는 소재를 개발하기 위한 개별 공정을 탐구하는 학문이다. 
 
-      - layout: top
+      - layout: top-middle
         title: 경기과학기술대학교
         caption: 2009.03 - 2014.02
         sub_title: 자동차과
@@ -242,7 +242,7 @@ content:
         # description: | # this will include new lines to allow paragraphs
           # - 자동차과는 국가의 기간산업으로 기계, 전기, 전자, 통신 등 산업 전반에 핵심이 되는 중요한 산업이다. 
           # - 자동차 산업 발전에 맞추어 필요한 인재를 양성하는 학과로서 자동차 정비, 자동차 부품설계, 그리고 친환경 전기자동차에 대한 우수한 전문기술인을 양성하는 것을 목표로 한다.
-      - layout: top
+      - layout: top-middle
         title: 백영고등학교
         caption: 2006.03 - 2009.02
         sub_title: 
